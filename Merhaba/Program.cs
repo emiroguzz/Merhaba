@@ -1,4 +1,4 @@
 ﻿
-Console.WriteLine("Merhaba");
+Console.WriteLine("Merhaba Emir");
 
 Console.ReadKey();
